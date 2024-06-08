@@ -1,0 +1,10 @@
+langgraph==0.0.45 
+langchain-community 
+langchain-openai
+openai
+tavily-python 
+pandas
+transformers 
+pillow 
+requests
+pydub
